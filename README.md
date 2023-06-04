@@ -24,7 +24,7 @@ User database
 
 Food object: name, price, type (drink or food)
 
-Food basket: Food list (each article of food should have a quantity), price
+Food basket associative array: Food list (each article of food should have a quantity), price
 
 Pay page: pay by card
 
